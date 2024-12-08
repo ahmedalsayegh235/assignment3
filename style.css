@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 1;
+    padding: 1;
+    font-family: 'Exo 2', sans-serif;
+  }
+  h1{
+    font-family: 'Exo 2', sans-serif;
+  }
+
+  table {
+    margin: auto;
+    overflow-x: auto;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  tr
+  {
+    border: .1rem solid black;
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .loading {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  .error {
+    color: red;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  table
+  {
+    border: .3rem solid black;
+  }
